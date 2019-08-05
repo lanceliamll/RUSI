@@ -1,0 +1,61 @@
+.container {
+  height: 100%;
+}
+
+.footer-date {
+  color: white;
+  text-align: center;
+}
+.header-caption {
+  padding-bottom: 25%;
+}
+
+.header-caption-text {
+  font-size: 40px;
+}
+
+.brand-icon {
+  height: 5vh;
+}
+
+.landingpage-header {
+  height: 80vh;
+  color: rgb(218, 212, 212);
+  background-image: linear-gradient(to left, #3333, #000),
+    url("../../static/landingpage.jpg");
+  background-size: cover;
+  background-position: top;
+  position: sticky;
+  letter-spacing: 3px;
+  font-size: 20px;
+}
+
+.position {
+  padding-top: 15%;
+}
+
+.header-buttons {
+  font-size: 15px;
+  color: rgb(218, 212, 212);
+}
+
+.r {
+  color: rgb(173, 173, 6);
+}
+.landingpage-content {
+  height: 50vh;
+}
+
+.content-text {
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.test {
+  height: 100vh;
+}
+
+.navigation {
+  position: fixed;
+  z-index: 1000;
+}

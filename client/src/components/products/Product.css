@@ -1,0 +1,16 @@
+.card-component {
+  height: 100%;
+}
+
+.img-size {
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  margin: 10px;
+}
+
+.admin-buttons button {
+  margin-left: 2px;
+}
